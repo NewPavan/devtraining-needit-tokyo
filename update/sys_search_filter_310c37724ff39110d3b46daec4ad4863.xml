@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="NeedIt">f10c37724ff39110d3b46daec4ad4848</ais_search_source>
+        <label>NeedIt</label>
+        <name>NeedIt</name>
+        <order>100</order>
+        <search_context_config display_value="NeedIt AI Search Configuration">2bfb3372a9f39110601318a0283b14b3</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-20 09:14:06</sys_created_on>
+        <sys_id>310c37724ff39110d3b46daec4ad4863</sys_id>
+        <sys_name>NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_search_filter_310c37724ff39110d3b46daec4ad4863</sys_update_name>
+    </sys_search_filter>
+</record_update>

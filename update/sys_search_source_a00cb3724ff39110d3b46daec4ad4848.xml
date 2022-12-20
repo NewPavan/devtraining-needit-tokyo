@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_58872_needit_needit">active=true<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        </condition>
+        <group/>
+        <name>NeedIt - x_58872_needit_needit</name>
+        <roles/>
+        <source_table>x_58872_needit_needit</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-20 09:14:01</sys_created_on>
+        <sys_id>a00cb3724ff39110d3b46daec4ad4848</sys_id>
+        <sys_name>NeedIt - x_58872_needit_needit</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_search_source_a00cb3724ff39110d3b46daec4ad4848</sys_update_name>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=a00cb3724ff39110d3b46daec4ad4848"/>
+</record_update>
